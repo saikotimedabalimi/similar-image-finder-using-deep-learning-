@@ -160,7 +160,8 @@ Create `LICENSE` file with MIT license:
 ```txt
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 saikotimedabalimi<img width="835" height="237" alt="Screenshot 2025-11-03 142054" src="https://github.com/user-attachments/assets/ed3fa834-41c1-41d8-b42f-230814ba2366" />
+
 
 Permission is hereby granted, free of charge...
 ```
